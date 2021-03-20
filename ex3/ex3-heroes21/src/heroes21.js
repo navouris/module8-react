@@ -52,7 +52,7 @@ const heroes21 = [
       "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sir_Edward_Codrington_by_Henry_Perronet_Briggs.jpg",
     attr: "Henry Perronet Briggs, Public domain, via Wikimedia Commons",
     life:
-      "Άγγλος ναύαρχος στην Ναυμαχία του Ναυαρίνου, Dodington, 1770 -  London, 1851"
+      "Άγγλος ναύαρχος (Ναυμαχία του Ναυαρίνου), Dodington, 1770 -  London, 1851"
   },
   {
     id: "8",
